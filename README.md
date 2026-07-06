@@ -412,5 +412,3 @@ MIT License
 5. Open a Pull Request
 
 ---
-
-Built with ❤️ by [Prashant](https://github.com/Prashant730)
